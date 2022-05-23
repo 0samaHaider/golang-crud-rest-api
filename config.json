@@ -1,0 +1,4 @@
+{
+    "connection_string": "root:Qwerty@12345@tcp(127.0.0.1:3306)/crud_demo",
+    "port": 6379
+}
